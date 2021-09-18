@@ -3,7 +3,7 @@ API menggunakan jwttoken
 
 
 
-after clone in your desktop:
+after clone in your desktop: \n
 npm install
 make a file <config.env>
 set the port, mongoUri, and RAHASIA //for the salt in bcrypt
